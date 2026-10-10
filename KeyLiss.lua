@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://eynch-key.eynchhub.workers.dev/loader"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/eynchLoad/EynchHub/main/loader.lua"))()
